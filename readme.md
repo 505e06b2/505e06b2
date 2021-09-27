@@ -9,6 +9,7 @@
 
 ## Media
 - [Endless Tape](https://github.com/505e06b2/Endless-Tape) - Perfect audio loops
+- [Black Ops 2 Emblem Editor](https://github.com/505e06b2/Black-Ops-2-Emblem-Editor) - A near 1:1 recreation of the Black Ops 2 (2012) Emblem Editor
 - [Peach FM](https://github.com/505e06b2/peach_fm) - All the songs from Road Trip Adventure (2003)'s Peach FM
 - [FIFA Street Trax](https://github.com/505e06b2/FIFA-Street-Trax) - All the songs from EA's FIFA Street (2005)
 - [Tar Content](https://github.com/505e06b2/Tar-Content) - An alternative to Flash loops
