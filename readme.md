@@ -7,7 +7,11 @@
 - [Chiaki TV](https://github.com/505e06b2/Chiaki-TV) - PS4 remote play with changes to make it work better with the Oculus Quest 2
 - [SMILELua 3ds](https://github.com/505e06b2/SmileLUA-3ds) - Lua console for the 3ds
 
+## Archival
+- [MW2 GSC Documentation](https://github.com/505e06b2/MW2-GSC-Documentation) - An attempt to preserve GSC scripting docs
+
 ## Media
+- [Image to Braille](https://github.com/505e06b2/Image-to-Braille) - Convert a bitmap image to unicode braille characters
 - [Endless Tape](https://github.com/505e06b2/Endless-Tape) - Perfect audio loops
 - [Black Ops 2 Emblem Editor](https://github.com/505e06b2/Black-Ops-2-Emblem-Editor) - A near 1:1 recreation of the Black Ops 2 (2012) Emblem Editor
 - [Peach FM](https://github.com/505e06b2/peach_fm) - All the songs from Road Trip Adventure (2003)'s Peach FM
