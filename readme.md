@@ -9,6 +9,7 @@
 
 ## Archival
 - [MW2 GSC Documentation](https://github.com/505e06b2/MW2-GSC-Documentation) - An attempt to preserve GSC scripting docs
+- [EbinModz](https://github.com/505e06b2/EbinModz) - A modern MW2 GSC mod menu, with the look based on GodlyModz V4
 
 ## Media
 - [Miss Bunny Penny](https://github.com/505e06b2/fnitemshop) - View the Fortnite item shop as an Android app (React Native)
