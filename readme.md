@@ -1,6 +1,6 @@
 # Repos
 ## Real Stuff
-- [(S)ELF Patcher](https://505e06b2.github.io/self-patcher/) - An entirely web-based Playstation binary patcher with encryption/decryption support
+- [(S)ELF Patcher](https://github.com/505e06b2/self-patcher) - An entirely web-based Playstation binary patcher with encryption/decryption support
 - [Superhub 3 CLI](https://github.com/505e06b2/Superhub3_CLI) - Alter values inside your Superhub 3 via HTTP
 - [HIDClient Bluez5](https://github.com/505e06b2/HIDClient-Bluez5) - Use your computer's keyboard on other devices via Bluetooth
 - [Wireless Lagswitch](https://github.com/505e06b2/Wireless-Lagswitch) - Manipulate your internal network with these tools
