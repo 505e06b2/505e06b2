@@ -13,6 +13,7 @@
 - [EbinModz](https://github.com/505e06b2/EbinModz) - A modern MW2 GSC mod menu, with the look based on GodlyModz V4
 
 ## Media
+- [0x40 Hues of 505e06b2](https://github.com/505e06b2/0x40-Hues-of-505e06b2) - A fork of [0x40 Hues by Mon](https://github.com/mon/0x40-web) with my custom respack
 - [media_player](https://github.com/505e06b2/media_player) - A HTTP-based music player with a TUI-like web interface
 - [Miss Bunny Penny](https://github.com/505e06b2/fnitemshop) - View the Fortnite item shop as an Android app (React Native)
 - [Image to Braille](https://github.com/505e06b2/Image-to-Braille) - Convert a bitmap image to unicode braille characters
