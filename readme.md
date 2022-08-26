@@ -7,7 +7,6 @@
 - [__farOut OS](https://github.com/505e06b2/__farOut-OS) - A basic 16-bit x86 kernel written against gcc99
 - [Chiaki TV](https://github.com/505e06b2/Chiaki-TV) - PS4 remote play with changes to make it work better with the Oculus Quest 2
 - [SMILELua 3ds](https://github.com/505e06b2/SmileLUA-3ds) - Lua console for the 3ds
-- [Launchpad Clock](https://gist.github.com/505e06b2/ecd384170360755470b397bd81dfef3a) - Turn a Launchpad Mini into a functioning clock
 
 ## Archival
 - [MW2 GSC Documentation](https://github.com/505e06b2/MW2-GSC-Documentation) - An attempt to preserve GSC scripting docs
@@ -32,3 +31,4 @@
 # Gists
 - [Extract Metadata From OGG](https://gist.github.com/505e06b2/d7c487893b45f719485c938680a8ab4a)
 - [Encode WEBMs](https://gist.github.com/505e06b2/b18eb00de7ab940aa15dcab3943a6a1f)
+- [Launchpad Clock](https://gist.github.com/505e06b2/ecd384170360755470b397bd81dfef3a) - Turn a Launchpad Mini into a functioning clock
