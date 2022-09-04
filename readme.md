@@ -32,3 +32,4 @@
 - [Extract Metadata From OGG](https://gist.github.com/505e06b2/d7c487893b45f719485c938680a8ab4a)
 - [Encode WEBMs](https://gist.github.com/505e06b2/b18eb00de7ab940aa15dcab3943a6a1f)
 - [Launchpad Clock](https://gist.github.com/505e06b2/ecd384170360755470b397bd81dfef3a) - Turn a Launchpad Mini into a functioning clock
+- [KissAscii](https://gist.github.com/505e06b2/1167def474f1b0d3dd02ef739f9a0a2d) - Lossy ASCII compression (byte savings of roughly 16%)
