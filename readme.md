@@ -1,5 +1,6 @@
 # Repos
 ## Real Stuff
+- [Titan Pocket Toolkit](https://github.com/505e06b2/Titan-Pocket-Toolkit) - A collection of tools and guides to help make the Titan Pocket more usable (and to get it rooted) 
 - [(S)ELF Patcher](https://github.com/505e06b2/self-patcher) - An entirely web-based Playstation binary patcher with encryption/decryption support
 - [Superhub 3 CLI](https://github.com/505e06b2/Superhub3_CLI) - Alter values inside your Superhub 3 via HTTP
 - [HIDClient Bluez5](https://github.com/505e06b2/HIDClient-Bluez5) - Use your computer's keyboard on other devices via Bluetooth
