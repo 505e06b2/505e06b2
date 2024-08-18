@@ -1,36 +1,37 @@
+# Gists
+| Name | Description |
+|---:|---|
+| [Extract Metadata From OGG](https://gist.github.com/505e06b2/d7c487893b45f719485c938680a8ab4a) | JS function to extract metadata from an .ogg file |
+| [Launchpad Clock](https://gist.github.com/505e06b2/ecd384170360755470b397bd81dfef3a) | Turn a Launchpad Mini into a functioning clock |
+
 # Repos
-## Real Stuff
-- [Titan Pocket Toolbox](https://github.com/505e06b2/Titan-Pocket-Toolbox) - A collection of tools and guides to help make the Titan Pocket more usable (and to get it rooted) 
-- [(S)ELF Patcher](https://github.com/505e06b2/self-patcher) - An entirely web-based Playstation binary patcher with encryption/decryption support
-- [Superhub 3 CLI](https://github.com/505e06b2/Superhub3_CLI) - Alter values inside your Superhub 3 via HTTP
-- [HIDClient Bluez5](https://github.com/505e06b2/HIDClient-Bluez5) - Use your computer's keyboard on other devices via Bluetooth
-- [Wireless Lagswitch](https://github.com/505e06b2/Wireless-Lagswitch) - Manipulate your internal network with these tools
-- [__farOut OS](https://github.com/505e06b2/__farOut-OS) - A basic 16-bit x86 kernel written in C against gnu99
-- [Chiaki TV](https://github.com/505e06b2/Chiaki-TV) - PS4 remote play with changes to make it work better with the Oculus Quest 2
-- [SMILELua 3ds](https://github.com/505e06b2/SmileLUA-3ds) - Lua console for the 3ds
+
+## Engineering
+| Name | Description |
+|---:|---|
+| [Barcode to Text](https://github.com/505e06b2/Barcode-to-Text) | Convert ASCII strings to unicode block elements that can be read by barcode scanners |
+| [Image to Braille](https://github.com/505e06b2/Image-to-Braille) | Convert a bitmap image to unicode braille characters |
+| [Titan Pocket Toolbox](https://github.com/505e06b2/Titan-Pocket-Toolbox) | A collection of tools and guides to help make the Titan Pocket more usable (and to get it rooted) |
+| [(S)ELF Patcher](https://github.com/505e06b2/self-patcher) | An entirely web-based Playstation binary patcher with encryption/decryption support |
+| [HIDClient Bluez5](https://github.com/505e06b2/HIDClient-Bluez5) | Use your computer's keyboard on other devices via Bluetooth |
+| [Wireless Lagswitch](https://github.com/505e06b2/Wireless-Lagswitch) | Manipulate your internal network by toggling the connection of remote devices |
+| [__farOut OS](https://github.com/505e06b2/__farOut-OS) | A basic 16-bit x86 kernel written in C against gnu99 |
+| [Chiaki TV](https://github.com/505e06b2/Chiaki-TV) | PS4 remote play with changes to make it work better with the Oculus Quest 2 |
+| [SMILELua 3ds](https://github.com/505e06b2/SmileLUA-3ds) | Lua console for the 3ds |
 
 ## Archival
-- [MW2 GSC Documentation](https://github.com/505e06b2/MW2-GSC-Documentation) - An attempt to preserve GSC scripting docs
-- [EbinModz](https://github.com/505e06b2/EbinModz) - A modern MW2 GSC mod menu, with the look based on GodlyModz V4
+| Name | Description |
+|---:|---|
+| [MW2 GSC Documentation](https://github.com/505e06b2/MW2-GSC-Documentation) | An attempt to preserve GSC scripting docs |
+| [EbinModz](https://github.com/505e06b2/EbinModz) | A modern MW2 GSC mod menu, with the look based on GodlyModz V4 |
+| [Black Ops 2 Emblem Editor](https://github.com/505e06b2/Black-Ops-2-Emblem-Editor) | A near 1:1 recreation of the Black Ops 2 (2012) Emblem Editor |
 
 ## Media
-- [0x40 Hues of 505e06b2](https://github.com/505e06b2/0x40-Hues-of-505e06b2) - A fork of [0x40 Hues by Mon](https://github.com/mon/0x40-web) with my custom respack
-- [media_player](https://github.com/505e06b2/media_player) - A HTTP-based music player with a TUI-like web interface
-- [Miss Bunny Penny](https://github.com/505e06b2/fnitemshop) - View the Fortnite item shop as an Android app (React Native)
-- [Image to Braille](https://github.com/505e06b2/Image-to-Braille) - Convert a bitmap image to unicode braille characters
-- [Endless Tape](https://github.com/505e06b2/Endless-Tape) - Perfect audio loops
-- [Black Ops 2 Emblem Editor](https://github.com/505e06b2/Black-Ops-2-Emblem-Editor) - A near 1:1 recreation of the Black Ops 2 (2012) Emblem Editor
-- [Peach FM](https://github.com/505e06b2/peach_fm) - All the songs from Road Trip Adventure (2003)'s Peach FM
-- [FIFA Street Trax](https://github.com/505e06b2/FIFA-Street-Trax) - All the songs from EA's FIFA Street (2005)
-- [Tar Content](https://github.com/505e06b2/Tar-Content) - An alternative to Flash loops
-- [Flash Projector Bookmark Manipulator](https://github.com/505e06b2/flashprojector-bookmark-manipulator) - On Linux, GTK Flash Projector's bookmark file to display local files
-
-## ~~Ab~~using Discord's API
-- [Harmony](https://github.com/505e06b2/Harmony) - Discord API from static HTML pages
-- [chatclient-filehost](https://github.com/505e06b2/chatclient-filehost) - Upload files to Discord/Guilded
-
-# Gists
-- [Extract Metadata From OGG](https://gist.github.com/505e06b2/d7c487893b45f719485c938680a8ab4a)
-- [Encode WEBMs](https://gist.github.com/505e06b2/b18eb00de7ab940aa15dcab3943a6a1f)
-- [Launchpad Clock](https://gist.github.com/505e06b2/ecd384170360755470b397bd81dfef3a) - Turn a Launchpad Mini into a functioning clock
-- [KissAscii](https://gist.github.com/505e06b2/1167def474f1b0d3dd02ef739f9a0a2d) - Lossy ASCII compression (byte savings of roughly 16%)
+| Name | Description |
+|---:|---|
+| [Endless Tape](https://github.com/505e06b2/Endless-Tape) | Perfect audio loops |
+| [media_player](https://github.com/505e06b2/media_player) | A HTTP-based music player with a TUI-like web interface |
+| [0x40 Hues of 505e06b2](https://github.com/505e06b2/0x40-Hues-of-505e06b2) | A fork of [0x40 Hues by Mon](https://github.com/mon/0x40-web) with my custom respack |
+| [Peach FM](https://github.com/505e06b2/peach_fm) | All the songs from Road Trip Adventure (2003)'s Peach FM |
+| [FIFA Street Trax](https://github.com/505e06b2/FIFA-Street-Trax) | All the songs from FIFA Street (2005) |
+| [Tar Content](https://github.com/505e06b2/Tar-Content) | An alternative to Flash loops |
