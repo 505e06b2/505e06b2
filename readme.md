@@ -23,7 +23,7 @@
 | Name | Description |
 |---:|---|
 | [MW2 GSC Documentation](https://github.com/505e06b2/MW2-GSC-Documentation) | An attempt to preserve GSC scripting docs |
-| [EbinModz](https://github.com/505e06b2/EbinModz) | A modern MW2 GSC mod menu, with the look based on GodlyModz V4 |
+| [iw4x-EbinMenu](https://github.com/505e06b2/iw4x-EbinMenu) | A modern MW2 GSC scriptmenu, with the look based on the original menus included with the game |
 | [Black Ops 2 Emblem Editor](https://github.com/505e06b2/Black-Ops-2-Emblem-Editor) | A near 1:1 recreation of the Black Ops 2 (2012) Emblem Editor |
 
 ## Media
